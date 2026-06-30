@@ -16,8 +16,8 @@
 
 ## 👋 Kısaca ben kimim?
 
-- 🚀 Fırat Üniversitesi Bilgisayar Mühendisliği 4. Sınıf Öğrencisiyim.  
-- 🧠 System-Network ve Yapay Zeka Alanında projeler geliştiriyorum.  
+- 🚀 Fırat Üniversitesi Bilgisayar Mühendisliği mezunuyım  
+- 🧠 System-Network, Yapay Zeka ve Web Alanında projeler geliştiriyorum.  
 - 🛠️ Kendimi daima geliştirip yeni teknolojiler öğrenme hedefindeyim.  
 - ✍️ Medium’da öğrendiklerimi paylaşarak Türkçe kaynak üretmeye çalışıyorum.
 ---
